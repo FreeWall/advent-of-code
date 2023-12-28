@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next
+/_next
+/build
+/public/cv/*/*.pdf
+/public/images/optimized
+next-env.d.ts
+
+# local env files
+.env
+
+# application
+*.tsbuildinfo
